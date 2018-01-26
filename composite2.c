@@ -12,8 +12,8 @@ int main()
      }
      }
      if(count==2)
-       printf("this is prime number:");
+       printf("yes,this is prime number:");
        else
-         printf("this is composite number:")
+         printf("yes,this is composite number:")
          return 0;
          }
